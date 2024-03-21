@@ -1,0 +1,63 @@
+                                                                                                              Invoice #          12300985
+                                                    INVOICE
+                                                                                                              Invoice Date       7/10/2023
+                                                    Remit payment to:
+                                                    STEMCO Products Inc                                       Payment Terms          Net 30
+                                                    62692 Collections Center Drive                            Order #               117781
+                                                    Chicago, IL 60693-0626
+
+                                                                                                                    Delivery # 18375004
+                                                                                                                    ASN ID          440123
+
+Bill to Acct - 702576                                                  Ship to Acct - 702576
+HENDRICKSON TRAILER                                                    HENDRICKSON TRAILER
+2070 INDUSTRIAL PL S E                                                 565 PIN OAK DRIVE
+CANTON OH 44707-2600                                                   SOMERSET KY 42503
+United States                                                          United States
+
+ Bill-To PO            Freight Charges      Ship-To PO                       Location Code                    SHIPPING METHOD
+101587                Collect               101587                                                           Override LTL Carrier
+        Product supplied for OEM Application only. It is a violation of our OEM agreement to sell  OEM Production Parts into the aftermarket as replacement parts.
+
+
+
+                           STEMCO                             CUSTOMER
+ Line    Qty               PART NO.                           PART NO.                              Price          Shipped           Amount
+1        300               373-0143-03                        A-25540                              $23.68               300         $7,104.00
+                           OIL SEAL VOYAGER
+
+                                                                                                          SUBTOTAL                  $7,104.00
+                                                                                                     TAX TOTAL (0%)                     $0.00
+                                                                                                     Shipping Charge                    $0.00
+                                                                                                               TOTAL                $7,104.00
+
+           12300985                                   *** Total Invoice in US Dollars ***                                $7,104.00
+
+
+THIS SALE (AND ANY QUOTATION, OFFER, ACCEPTANCE AND ACKNOWLEDGEMENT RELATED THERETO) IS EXPRESSLY LIMITED TO AND
+MADE CONDITIONAL UPON BUYER'S ACCEPTANCE OF THE TERMS CONTAINED HEREIN AND STEMCO'S STANDARD TERMS AND
+CONDITIONS OF SALE AND SERVICE PROVIDED HEREWITH AND LOCATED AT, OR LINKED TO, THE URL https://www.stemco.com/wp-content/
+uploads/2020/09/Standard-Terms-Conditions-of-Sales.pdf. STEMCO'S STANDARD TERMS AND CONDITIONS ARE INCORPORATED HEREIN AND
+MADE A PART HEREOF. STEMCO OBJECTS TO ANY OTHER DIFFERENT OR ADDITIONAL TERMS, WHICH ARE HEREBY REJECTED. ANY
+DIFFERENT OR ADDITIONAL TERMS MAY ONLY BE ACCEPTED IN A SEPARATE WRITING SIGNED BY A DULY AUTHORIZED
+REPRESENTATIVE OF STEMCO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                      1 of 1

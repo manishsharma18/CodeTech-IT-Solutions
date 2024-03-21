@@ -1,0 +1,63 @@
+                                                                                                              Invoice #          12303358
+                                                    INVOICE
+                                                                                                              Invoice Date       7/14/2023
+                                                    Remit payment to:
+                                                    STEMCO Products Inc                                       Payment Terms          Net 30
+                                                    62692 Collections Center Drive                            Order #               123425
+                                                    Chicago, IL 60693-0626
+
+                                                                                                                    Delivery # 18522907
+                                                                                                                    ASN ID          442820
+
+Bill to Acct - 536068                                                  Ship to Acct - 536068
+HENDRICKSON TRAILER                                                    HENDRICKSON TRAILER
+2070 INDUSTRIAL PL S E                                                 180 MOUNT ZION RD
+CANTON OH 44707-2600                                                   LEBANON IN 46052
+United States                                                          United States
+
+ Bill-To PO            Freight Charges      Ship-To PO                       Location Code                    SHIPPING METHOD
+119508                Collect               119508                                                           FedEx Freight® Priority
+        Product supplied for OEM Application only. It is a violation of our OEM agreement to sell  OEM Production Parts into the aftermarket as replacement parts.
+
+
+
+                           STEMCO                             CUSTOMER
+ Line    Qty               PART NO.                           PART NO.                              Price          Shipped           Amount
+1        200               447-4723-03                        A-23852                              $22.59               200         $4,518.00
+                           PRO-TORQ SPINDLE NUT
+
+                                                                                                          SUBTOTAL                  $4,518.00
+                                                                                                     TAX TOTAL (0%)                     $0.00
+                                                                                                     Shipping Charge                    $0.00
+                                                                                                               TOTAL                $4,518.00
+
+           12303358                                   *** Total Invoice in US Dollars ***                                $4,518.00
+
+
+THIS SALE (AND ANY QUOTATION, OFFER, ACCEPTANCE AND ACKNOWLEDGEMENT RELATED THERETO) IS EXPRESSLY LIMITED TO AND
+MADE CONDITIONAL UPON BUYER'S ACCEPTANCE OF THE TERMS CONTAINED HEREIN AND STEMCO'S STANDARD TERMS AND
+CONDITIONS OF SALE AND SERVICE PROVIDED HEREWITH AND LOCATED AT, OR LINKED TO, THE URL https://www.stemco.com/wp-content/
+uploads/2020/09/Standard-Terms-Conditions-of-Sales.pdf. STEMCO'S STANDARD TERMS AND CONDITIONS ARE INCORPORATED HEREIN AND
+MADE A PART HEREOF. STEMCO OBJECTS TO ANY OTHER DIFFERENT OR ADDITIONAL TERMS, WHICH ARE HEREBY REJECTED. ANY
+DIFFERENT OR ADDITIONAL TERMS MAY ONLY BE ACCEPTED IN A SEPARATE WRITING SIGNED BY A DULY AUTHORIZED
+REPRESENTATIVE OF STEMCO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                      1 of 1

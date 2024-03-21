@@ -1,0 +1,63 @@
+                                                                                                              Invoice #          12303521
+                                                    INVOICE
+                                                                                                              Invoice Date       7/14/2023
+                                                    Remit payment to:
+                                                    STEMCO Products Inc                                       Payment Terms          Net 30
+                                                    62692 Collections Center Drive                            Order #               119804
+                                                    Chicago, IL 60693-0626
+
+                                                                                                                    Delivery # 18523426
+                                                                                                                    ASN ID          442844
+
+Bill to Acct - 702576                                                  Ship to Acct - 702576
+HENDRICKSON TRAILER                                                    HENDRICKSON TRAILER
+2070 INDUSTRIAL PL S E                                                 565 PIN OAK DRIVE
+CANTON OH 44707-2600                                                   SOMERSET KY 42503
+United States                                                          United States
+
+ Bill-To PO            Freight Charges      Ship-To PO                       Location Code                    SHIPPING METHOD
+104420                                      104420                                                           Override LTL Carrier
+        Product supplied for OEM Application only. It is a violation of our OEM agreement to sell  OEM Production Parts into the aftermarket as replacement parts.
+
+
+
+                           STEMCO                             CUSTOMER
+ Line    Qty               PART NO.                           PART NO.                              Price          Shipped           Amount
+         175               343-4009-03                        A-1974                                $5.98               175         $1,046.50
+                           HUB CAP WITH PIPE PLUG
+
+                                                                                                          SUBTOTAL                  $1,046.50
+                                                                                                     TAX TOTAL (0%)                     $0.00
+                                                                                                     Shipping Charge                    $0.00
+                                                                                                               TOTAL                $1,046.50
+
+           12303521                                   *** Total Invoice in US Dollars ***                                $1,046.50
+
+
+THIS SALE (AND ANY QUOTATION, OFFER, ACCEPTANCE AND ACKNOWLEDGEMENT RELATED THERETO) IS EXPRESSLY LIMITED TO AND
+MADE CONDITIONAL UPON BUYER'S ACCEPTANCE OF THE TERMS CONTAINED HEREIN AND STEMCO'S STANDARD TERMS AND
+CONDITIONS OF SALE AND SERVICE PROVIDED HEREWITH AND LOCATED AT, OR LINKED TO, THE URL https://www.stemco.com/wp-content/
+uploads/2020/09/Standard-Terms-Conditions-of-Sales.pdf. STEMCO'S STANDARD TERMS AND CONDITIONS ARE INCORPORATED HEREIN AND
+MADE A PART HEREOF. STEMCO OBJECTS TO ANY OTHER DIFFERENT OR ADDITIONAL TERMS, WHICH ARE HEREBY REJECTED. ANY
+DIFFERENT OR ADDITIONAL TERMS MAY ONLY BE ACCEPTED IN A SEPARATE WRITING SIGNED BY A DULY AUTHORIZED
+REPRESENTATIVE OF STEMCO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                      1 of 1

@@ -1,0 +1,66 @@
+                                                                                                              Invoice #          12311054
+                                                    INVOICE
+                                                                                                              Invoice Date       7/27/2023
+                                                    Remit payment to:
+                                                    STEMCO Products Inc                                       Payment Terms          Net 30
+                                                    62692 Collections Center Drive                            Order #               123409
+                                                    Chicago, IL 60693-0626
+
+                                                                                                                    Delivery # 18895284
+                                                                                                                    ASN ID          450498
+
+Bill to Acct - 710204                                                  Ship to Acct - 710204
+HENDRICKSON INC                                                        HENDRICKSON INC
+2070 INDUSTRIAL PLACE SE                                               4500 STERILITE STREET NE
+CANTON OH 44707                                                        NAVARRE OH 44662
+United States                                                          United States
+
+ Bill-To PO            Freight Charges      Ship-To PO                       Location Code                    SHIPPING METHOD
+21505                 Third Party Billing   21505                                                            UPS Ground / If LTL Routing
+                                                                                                             Guide
+        Product supplied for OEM Application only. It is a violation of our OEM agreement to sell  OEM Production Parts into the aftermarket as replacement parts.
+
+
+
+
+                           STEMCO                             CUSTOMER
+ Line    Qty               PART NO.                           PART NO.                              Price          Shipped           Amount
+1        25                343-4009-03                        A-1974                                $5.98                25           $149.50
+                           HUB CAP WITH PIPE PLUG
+
+                                                                                                          SUBTOTAL                   $149.50
+                                                                                                     TAX TOTAL (0%)                     $0.00
+                                                                                                     Shipping Charge                    $0.00
+                                                                                                               TOTAL                 $149.50
+
+           12311054                                   *** Total Invoice in US Dollars ***                                 $149.50
+
+THIS SALE (AND ANY QUOTATION, OFFER, ACCEPTANCE AND ACKNOWLEDGEMENT RELATED THERETO) IS EXPRESSLY LIMITED TO AND
+MADE CONDITIONAL UPON BUYER'S ACCEPTANCE OF THE TERMS CONTAINED HEREIN AND STEMCO'S STANDARD TERMS AND
+CONDITIONS OF SALE AND SERVICE PROVIDED HEREWITH AND LOCATED AT, OR LINKED TO, THE URL https://www.stemco.com/wp-content/
+uploads/2020/09/Standard-Terms-Conditions-of-Sales.pdf. STEMCO'S STANDARD TERMS AND CONDITIONS ARE INCORPORATED HEREIN AND
+MADE A PART HEREOF. STEMCO OBJECTS TO ANY OTHER DIFFERENT OR ADDITIONAL TERMS, WHICH ARE HEREBY REJECTED. ANY
+DIFFERENT OR ADDITIONAL TERMS MAY ONLY BE ACCEPTED IN A SEPARATE WRITING SIGNED BY A DULY AUTHORIZED
+REPRESENTATIVE OF STEMCO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                      1 of 1
